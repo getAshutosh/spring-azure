@@ -1,0 +1,1 @@
+mvn -f spring-boot-web-spring-security/pom.xml clean package
